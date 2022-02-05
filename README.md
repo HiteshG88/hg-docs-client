@@ -18,8 +18,8 @@
 
 **Server:** Node, Express, Mongodb/Mongoose.
 
+**Deployed:** Heroku and Mongodb-Atlas
+
 ## Upcoming Optimizations
 
 - Add Authentication
-
-- Deploy on Heroku and Mongodb-Atlas
