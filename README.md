@@ -1,6 +1,8 @@
 # Google Docs Clone
 
-- Users can share the link of the document to see realtime update in all the instances
+- Users can share the link of the document to see realtime update in all the instances [Link](https://hg-doc.herokuapp.com/).
+
+- Backend can be Found [here](https://github.com/HiteshG88/hg-docs-server).
 
 ## Demo
 
